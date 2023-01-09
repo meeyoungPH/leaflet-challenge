@@ -1,8 +1,6 @@
 # Mapping US Geological Survey (USGS) data using Leaflet
 The United States Geological Survey (USGS) is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. In this project, Leaflet is used to map USGS GeoJSON data of all earthquakes exceeding 2.5 magnitude within the past 30 days.
 
-See [live map](https://meeyoungph.github.io/leaflet-challenge/)
-
 ## Tools and Libraries
 * Javascript
 * Leaflet
